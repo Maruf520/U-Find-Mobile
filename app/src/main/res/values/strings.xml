@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Find Me</string>
+    <string name="logo">logo</string>
+    <string name="find_me">FIND ME</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title">title</string>
+    <string name="select_image">Select Image</string>
+    <string name="upload">Upload</string>
+    <string name="phone">Phone</string>
+    <string name="location">Location</string>
+    <string name="image">Image</string>
+    <string name="_01xxxxxxxxx">01XXXXXXXXX</string>
+    <string name="description">Description</string>
+</resources>
